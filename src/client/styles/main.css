@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(196, 194, 244, 0.58) !important;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+
+.home-network-container {
+    font-weight: bolder;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.accounts-info-container {
+    margin-top: 24px;
+    margin-right: 24px;
+    background-color: #a4a4af;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 450px;
+    box-shadow: 0 0 4px 1px;
+}
+
+.account-info-block {
+    background-color: #525c7a;
+    width: 94%;
+    margin: 3% 3%;
+    border-radius: 4px;
+    box-shadow: 0 0 4px 1px;
+}
+
+.account-header {
+    margin-left: 5%;
+    line-height: 40px;
+    font-weight: bold;
+    color: #eceff9;
+}
+
+.account-label {
+    margin-left: 5%;
+    margin-bottom: 4px;
+    color: #ebebfa;
+}
+
+.account-input {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 16px;
+    width: 90%;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.account-rspan {
+    display: inline-block;
+    color: black;
+    margin-bottom: 16px;
+    margin-left: 5%;
+}
+
+.deposit-input {
+    width: 70%;
+}
+
+.deposit-button {
+    width: 15%;
+    border-radius: 4px;
+}
+
+.marg {
+    display: inline-block;
+    width: 5%;
+}
