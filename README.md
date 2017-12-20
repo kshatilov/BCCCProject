@@ -16,9 +16,7 @@ DApp for controlling and illustrating flow of interchain communication
     ./init.sh
     ```
 3. Make sure you dist output folder has symbolic link to parity client dapps folder.
-   
-  
-  Example for Windows: 
+   Example for Windows: 
    
    ```
    mklink /D  "{path_to_chains_folder}\{chain_name}\dapps\dist"  "{app_folder}\dist"
