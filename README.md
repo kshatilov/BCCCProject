@@ -26,4 +26,4 @@ DApp for controlling and illustrating flow of interchain communication
 ## Authors
 * **[Kirill Shatilov](http://www.shatilov.me)**
 * **Jacob Heyder**
-* **Zac Wellmer**
+* **[Zac Wellmer](www.1984.ai)**
