@@ -1,8 +1,8 @@
-#Interchain Communication UI
+# Interchain Communication UI
 
 DApp for controlling and illustrating flow of interchain communication
 
-##Getting started
+## Getting started
 
 1. Configure and run parity client with chosen network.
 2. A. For Windows, run (with GIT installed):
@@ -23,7 +23,7 @@ DApp for controlling and illustrating flow of interchain communication
    ``` 
 4. To configure default accounts in networks and contracts' addresses edit src/config.json
 
-##Authors
+## Authors
 * **[Kirill Shatilov](shatilov.me)**
 * **Jacob Heyder**
 * **Zac Wellmer**
