@@ -1,13 +1,16 @@
 {
-  "name": "Bridge dApp",
-  "version": "0.0.1",
-  "description": "Bridge dApp",
+  "name": "ust-bridge-ui-project",
+  "version": "1.0.0",
+  "description": "DApp for controlling and illustrating flow of interchain communication",
   "main": "webpack.config.js",
   "dependencies": {
     "babel-core": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
     "babel-runtime": "^6.26.0",
     "bignumber.js": "^5.0.0",
     "css-loader": "^0.28.7",
+    "json-loader": "^0.5.7",
     "oo7": "^0.5.8",
     "oo7-parity": "^0.6.13",
     "oo7-react": "^0.4.8",
@@ -16,33 +19,33 @@
     "react-dom": "^16.2.0",
     "style-loader": "^0.19.1",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.9.7",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "babel-loader": "^7.1.2",
-    "babel-preset-react": "^6.24.1",
-    "json-loader": "^0.5.7"
+    "webpack-dev-server": "^2.9.7"
   },
   "devDependencies": {
     "babel-loader": "^7.1.2",
-    "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
-    "json-loader": "^0.5.7"
+    "babel-preset-react": "^6.24.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack",
-    "start": "webpack-dev-server --content-base build"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshatilov/BCCCProject.git"
   },
   "keywords": [
-    "Dapp",
-    "Parity",
-    "Reactive",
-    "Template"
+    "blockchain",
+    "interchain",
+    "ethereum",
+    "parity",
+    "react",
+    "ui",
+    "ust"
   ],
-  "author": "Parity Technologies Ltd",
-  "license": "Apache-2.0"
+  "author": "Kirill Jacob Zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshatilov/BCCCProject/issues"
+  },
+  "homepage": "https://github.com/kshatilov/BCCCProject#readme"
 }

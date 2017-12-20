@@ -7,6 +7,7 @@ npm i --save oo7
 npm i --save oo7-parity
 npm i --save oo7-react
 npm i --save parity-reactive-ui
+npm i --save
 
 echo "All installed."
 
