@@ -24,6 +24,6 @@ DApp for controlling and illustrating flow of interchain communication
 4. To configure default accounts in networks and contracts' addresses edit src/config.json
 
 ## Authors
-* **[Kirill Shatilov](shatilov.me)**
+* **[Kirill Shatilov](http://www.shatilov.me)**
 * **Jacob Heyder**
 * **Zac Wellmer**
